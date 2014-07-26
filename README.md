@@ -2,6 +2,13 @@
 
 TTS (Text-To-Speech) in Node.JS using system native APIs.
 
+## Installation
+
+```
+npm install ttsay
+```
+
+
 ### Usage
 
 ```javascript
