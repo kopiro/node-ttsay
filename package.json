@@ -1,11 +1,11 @@
 {
     "name": "ttsay",
     "description": "TTS for node.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Flavio De Stefano",
     "repository": {
         "type": "git",
-        "url": "http://github.com/kopiro/ttsay.nodejs.git"
+        "url": "http://github.com/kopiro/node-ttsay.git"
     },
     "dependencies": {
      },
