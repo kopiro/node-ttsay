@@ -1,7 +1,7 @@
 {
     "name": "ttsay",
     "description": "TTS for node.js",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "author": "Flavio De Stefano",
     "repository": {
         "type": "git",
