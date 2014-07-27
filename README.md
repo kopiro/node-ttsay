@@ -13,11 +13,11 @@ npm install ttsay
 
 ```javascript
 
-var TTSay = require('ttsay');
+var Say = require('ttsay');
 
-TTSay.speak('Hi!');
+Say('Hi!');
 
-TTSay.speak('Hello, with callback', function() {
+Say('Hello, with callback', function() {
     console.log("TTS ended");
 });
 ```
